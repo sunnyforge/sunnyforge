@@ -11,3 +11,9 @@ My focus is turning complex technical problems into clean, scalable, production-
 </h3>
 
 <br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyforge&locale=en&hide_title=false&hide=html,MDX,css,PHP,Javascript,makefile,Batchfile,handlebars,shell&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
