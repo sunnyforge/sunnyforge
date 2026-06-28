@@ -140,3 +140,7 @@ My focus is turning complex technical problems into clean, scalable, production-
   </tr>
 </table>
 </div>
+
+###
+
+<h2 align="center">Coding is my life! 🚀💻</h2>
