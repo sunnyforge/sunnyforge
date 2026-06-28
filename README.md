@@ -12,7 +12,6 @@ My focus is turning complex technical problems into clean, scalable, production-
 
 <br clear="both">
 
-###
 
 # 💻 Main Skills
 
